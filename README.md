@@ -36,7 +36,7 @@
 ## Installation
 ### Clone
 ```
-$ git clone https://github.com/m-joseph27/Tokosidia-API
+$ git clone https://github.com/m-joseph27/Tokosidia-API.git
 $ cd tokosidia-API
 $ npm install
 ```
