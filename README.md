@@ -36,7 +36,7 @@
 ## Installation
 ### Clone
 ```
-$ git clone https://github.com/HiRahmat-Dev/tokosidia-API.git
+$ git clone https://github.com/m-joseph27/Tokosidia-API
 $ cd tokosidia-API
 $ npm install
 ```
@@ -149,8 +149,8 @@ Fork the Project
 4. Open a Pull Request
 
 ## Related Project
-* [`Frontend-Tokosidia-VueJS`](https://github.com/HiRahmat-Dev/tokosidia-vuejs)
-* [`Backend-Tokosidia`](https://github.com/HiRahmat-Dev/tokosidia-API)
+* [`Frontend-Tokosidia-VueJS`](https://github.com/m-joseph27/Tokosidia-Vue.js)
+* [`Backend-Tokosidia`](https://github.com/m-joseph27/Tokosidia-API)
 
 ## Contributors
 <center>
